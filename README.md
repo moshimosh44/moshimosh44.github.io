@@ -1,2 +1,2 @@
 # moshimosh44.gituhub.io
-theme: minima
+theme: Architect
