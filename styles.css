@@ -3,6 +3,9 @@ body{
     text-align:center;
     background-image: url("https://ychef.files.bbci.co.uk/1280x720/p03xg5js.jpg");
     background-color: #cccccc;
+    background-size:cover;
+    height: 100%;
+    overflow: hidden;
 }
 
 
