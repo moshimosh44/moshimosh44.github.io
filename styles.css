@@ -2,8 +2,8 @@ body{
     margin: 0;
     background: pink;
     text-align:center;
-    background: url("https://ychef.files.bbci.co.uk/1280x720/p03xg5js.jpg");
-    background-color: #ccc;
+    background-image: url("https://ychef.files.bbci.co.uk/1280x720/p03xg5js.jpg");
+    background-color: #cccccc;
 }
 
 
